@@ -2,7 +2,7 @@
 title: "Zadania dodatkowe - programowanie strukturalne"
 lang: pl
 editor: visual
-format: pdf
+format: gfm
 ---
 
 ## WEEK2 TASK1
