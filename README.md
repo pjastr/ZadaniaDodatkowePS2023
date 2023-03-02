@@ -1,7 +1,7 @@
 Zadania dodatkowe - programowanie strukturalne
 ================
 
-Wersja pdf - [tutaj](http://localhost:3014/web/viewer.html).
+Wersja pdf - [tutaj](https://github.com/pjastr/ZadaniaDodatkowePS2023/blob/main/zd1.pdf).
 
 ## WEEK2 TASK1
 
