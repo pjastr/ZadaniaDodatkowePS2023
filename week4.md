@@ -25,6 +25,6 @@ funkcji.
 ## WEEK4 TASK4
 
 Napisz funkcję, której argumentem są dwa wskaźniki do zmiennych typu
-`int`. Funkcja ma zwrócić wskaźnik na nowo zarezerwowanej zmiennej typu
-\`int, której wartość jest sumą wartości wskazywanej przez argumenty
+`int`. Funkcja ma zwrócić wskaźnik na nowo zarezerwowaną zmienną typu
+`int`, której wartość jest sumą wartości wskazywanej przez argumenty
 funkcji. Stwórz przypadek testowy dla funkcji.
