@@ -1,0 +1,45 @@
+---
+title: "Zadania dodatkowe - Programowanie Strukturalne - Tydzień 5"
+lang: pl
+editor: visual
+format: gfm
+---
+
+## WEEK5 TASK1
+
+Napisz funkcję, która otrzymuje dwa wskaźniki na funkcje o jednym argumencie typu `double` zwracające wartość typu `double`, oraz wartość `x` typu `double`. Funkcja ma zwrócić różnicę wartości obu funkcji przekazanych jako wskaźnik w punkcie `x`. Stwórz dwa różne przypadki testowe.
+
+## WEEK5 TASK2
+
+Napisz funkcję, która otrzymuje dwa wskaźniki na funkcje o jednym argumencie typu `int` zwracające wartość typu `int`, oraz wartość `n` typu `int`. Funkcja ma zwrócić iloczyn wartości obu funkcji przekazanych jako wskaźnik w punkcie `n`. Stwórz dwa różne przypadki testowe.
+
+## WEEK5 TASK3
+
+Napisz funkcję, która otrzymuje dwa wskaźniki na funkcje o jednym argumencie typu `int` zwracające wartość typu `int`, oraz wartość `n` typu `int`. Funkcja ma zwrócić największą wartość z obu funkcji przekazanych jako wskaźnik w punkcie `n`. Stwórz dwa różne przypadki testowe.
+
+## WEEK5 TASK4
+
+Napisz funkcję, która otrzymuje trzy argumenty:
+
+* dwa wskaźniki na funkcje o jednym argumencie typu `int` zwracające wartość typu `int`,
+* wartość `n` typu `int` (pewną dodatnią liczbę całkowitą),
+
+i zwraca 1, jeżeli suma wartości obu funkcji dla każdej liczby od 0 do n jest parzysta, i zwraca 0 w przeciwnym wypadku. Stwórz przypadek testowy.
+
+## WEEK5 TASK5
+
+Napisz funkcję, która otrzymuje trzy argumenty:
+
+* dwa wskaźniki na funkcje o jednym argumencie typu `int` zwracające wartość typu `int`,
+* wartość `n` typu `int` (pewną dodatnią liczbę całkowitą),
+
+i zwraca 1, jeżeli iloczyn wartości obu funkcji dla każdej liczby od 0 do n jest podzielny przez 3, i zwraca 0 w przeciwnym wypadku. Stwórz przypadek testowy.
+
+## WEEK5 TASK6
+
+Napisz funkcję, która otrzymuje trzy argumenty:
+
+* dwa wskaźniki na funkcje o jednym argumencie typu `float` zwracające wartość typu `float`,
+* wartość `n` typu `int` (pewną dodatnią liczbę całkowitą),
+
+i zwraca 1, jeżeli różnica wartości obu funkcji dla każdej liczby od 0 do n jest mniejsza lub równa 10, i zwraca 0 w przeciwnym wypadku. Stwórz przypadek testowy.
